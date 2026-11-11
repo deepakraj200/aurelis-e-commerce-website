@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+!.env.example
+.tools/
+.data/
+backend/uploads/*
+!backend/uploads/.gitkeep
+*.log
+*.pid
+.DS_Store
+.cloud-attachments/
+.freebuff/
+.vscode/
+coverage/
